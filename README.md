@@ -15,3 +15,9 @@ Customize a media solution
 Describe your idea and we will reply within 24 hours.
 Website: https://gigasource.io/media-slider/
 Email: info@gigasource.io
+
+Related Products 
+https://gigasource.io/face-attendance/
+https://gigasource.io/visitor-analyzer/
+https://gigasource.io/pos-retail/
+https://gigasource.io/crm/
