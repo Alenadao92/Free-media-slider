@@ -17,7 +17,7 @@ Website: https://gigasource.io/media-slider/
 Email: info@gigasource.io
 
 Related Products 
-https://gigasource.io/face-attendance/
-https://gigasource.io/visitor-analyzer/
-https://gigasource.io/pos-retail/
-https://gigasource.io/crm/
+- https://gigasource.io/face-attendance/
+- https://gigasource.io/visitor-analyzer/
+- https://gigasource.io/pos-retail/
+- https://gigasource.io/crm/
