@@ -21,3 +21,4 @@ Related Products
 - https://gigasource.io/visitor-analyzer/
 - https://gigasource.io/pos-retail/
 - https://gigasource.io/crm/
+- https://gigasource.io/cloud-signage/
